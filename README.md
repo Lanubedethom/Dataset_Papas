@@ -2,6 +2,16 @@
 
 Este repositorio contiene un dataset de papas, así como scripts para la extracción de características y edición de fondo de imágenes de papas.
 
+# 🚨 **NOTA IMPORTANTE** 🚨
+
+**EL DATASET DE PAPAS SE ENCUENTRA EN EL SIGUIENTE LINK:**
+
+🔗 [Dataset de Papas en Google Drive](https://drive.google.com/drive/folders/1PuvkgxYiRefR9HbTCAOre0PZ17jWGLEj?usp=sharing)
+
+*debido a su tamaño (8 GB), no se puede almacenar en GitHub.*
+
+---
+
 ## Autores
 
 - Callapina Castilla Ciro Gabriel
