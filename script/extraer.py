@@ -77,14 +77,14 @@ def guardar_lote_csv(datos, archivo):
 
 
 def procesar_imagenes_por_lotes(lote_tamano=10):
-    archivo_csv = "dataset-1-21.csv"
+    archivo_csv = "dataset-21-42.csv"
 
     with open(archivo_csv, 'w') as f:
         f.write(','.join(COLUMNAS) + '\n')
 
     # Procesar imagenes por especie y en lotes
     lote = []
-    for especie in range(1, 21):
+    for especie in range(21, 43):
         especie_dir = os.path.join(BASE_DIR, str(especie))
 
         if not os.path.exists(especie_dir):

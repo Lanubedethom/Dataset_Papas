@@ -1,6 +1,7 @@
 # Ignorar carpetas de datasets
 papas/
 papas-new/
+dataset_papas/
 
 # Ignorar archivos de configuración de VSCode y WebStorm
 .vscode/
@@ -32,3 +33,4 @@ pixel.ipynb
 recortar.py
 uno.py
 fondo.py
+script/*.csv
